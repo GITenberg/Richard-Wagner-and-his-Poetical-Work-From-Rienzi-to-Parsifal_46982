@@ -1,9 +1,13 @@
 _repo: Richard-Wagner-and-his-Poetical-Work-From-Rienzi-to-Parsifal_46982
+_version: 0.1.0
 contributor:
   translator:
     agent_name: L. S. J.
     gutenberg_agent_id: '44072'
     url: http://www.gutenberg.org/2009/agents/44072
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gautier, Judith
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8006
     wikipedia: http://fr.wikipedia.org/wiki/Judith_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46982#Richard-Wagner-and-his-Poetical-Work-From-Rienzi-to-Parsifal
 gutenberg_issued: '2014-09-27'
 gutenberg_type: Text
 identifiers:
